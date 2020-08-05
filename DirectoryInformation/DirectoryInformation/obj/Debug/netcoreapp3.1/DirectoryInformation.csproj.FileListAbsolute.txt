@@ -1,0 +1,13 @@
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\bin\Debug\netcoreapp3.1\DirectoryInformation.exe
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\bin\Debug\netcoreapp3.1\DirectoryInformation.deps.json
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\bin\Debug\netcoreapp3.1\DirectoryInformation.runtimeconfig.json
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\bin\Debug\netcoreapp3.1\DirectoryInformation.runtimeconfig.dev.json
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\bin\Debug\netcoreapp3.1\DirectoryInformation.dll
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\bin\Debug\netcoreapp3.1\DirectoryInformation.pdb
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\obj\Debug\netcoreapp3.1\DirectoryInformation.csprojAssemblyReference.cache
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\obj\Debug\netcoreapp3.1\DirectoryInformation.AssemblyInfoInputs.cache
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\obj\Debug\netcoreapp3.1\DirectoryInformation.AssemblyInfo.cs
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\obj\Debug\netcoreapp3.1\DirectoryInformation.csproj.CoreCompileInputs.cache
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\obj\Debug\netcoreapp3.1\DirectoryInformation.dll
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\obj\Debug\netcoreapp3.1\DirectoryInformation.pdb
+C:\Users\green\source\repos\DirectoryInformation\DirectoryInformation\obj\Debug\netcoreapp3.1\DirectoryInformation.genruntimeconfig.cache

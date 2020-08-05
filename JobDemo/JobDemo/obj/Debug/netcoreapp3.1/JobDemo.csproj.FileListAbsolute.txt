@@ -1,0 +1,13 @@
+C:\Users\green\source\repos\JobDemo\JobDemo\bin\Debug\netcoreapp3.1\JobDemo.exe
+C:\Users\green\source\repos\JobDemo\JobDemo\bin\Debug\netcoreapp3.1\JobDemo.deps.json
+C:\Users\green\source\repos\JobDemo\JobDemo\bin\Debug\netcoreapp3.1\JobDemo.runtimeconfig.json
+C:\Users\green\source\repos\JobDemo\JobDemo\bin\Debug\netcoreapp3.1\JobDemo.runtimeconfig.dev.json
+C:\Users\green\source\repos\JobDemo\JobDemo\bin\Debug\netcoreapp3.1\JobDemo.dll
+C:\Users\green\source\repos\JobDemo\JobDemo\bin\Debug\netcoreapp3.1\JobDemo.pdb
+C:\Users\green\source\repos\JobDemo\JobDemo\obj\Debug\netcoreapp3.1\JobDemo.csprojAssemblyReference.cache
+C:\Users\green\source\repos\JobDemo\JobDemo\obj\Debug\netcoreapp3.1\JobDemo.AssemblyInfoInputs.cache
+C:\Users\green\source\repos\JobDemo\JobDemo\obj\Debug\netcoreapp3.1\JobDemo.AssemblyInfo.cs
+C:\Users\green\source\repos\JobDemo\JobDemo\obj\Debug\netcoreapp3.1\JobDemo.csproj.CoreCompileInputs.cache
+C:\Users\green\source\repos\JobDemo\JobDemo\obj\Debug\netcoreapp3.1\JobDemo.dll
+C:\Users\green\source\repos\JobDemo\JobDemo\obj\Debug\netcoreapp3.1\JobDemo.pdb
+C:\Users\green\source\repos\JobDemo\JobDemo\obj\Debug\netcoreapp3.1\JobDemo.genruntimeconfig.cache
