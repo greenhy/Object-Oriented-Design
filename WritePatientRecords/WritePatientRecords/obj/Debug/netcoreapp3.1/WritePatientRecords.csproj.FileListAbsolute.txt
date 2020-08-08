@@ -1,0 +1,13 @@
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\bin\Debug\netcoreapp3.1\WritePatientRecords.exe
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\bin\Debug\netcoreapp3.1\WritePatientRecords.deps.json
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\bin\Debug\netcoreapp3.1\WritePatientRecords.runtimeconfig.json
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\bin\Debug\netcoreapp3.1\WritePatientRecords.runtimeconfig.dev.json
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\bin\Debug\netcoreapp3.1\WritePatientRecords.dll
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\bin\Debug\netcoreapp3.1\WritePatientRecords.pdb
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\obj\Debug\netcoreapp3.1\WritePatientRecords.csprojAssemblyReference.cache
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\obj\Debug\netcoreapp3.1\WritePatientRecords.AssemblyInfoInputs.cache
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\obj\Debug\netcoreapp3.1\WritePatientRecords.AssemblyInfo.cs
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\obj\Debug\netcoreapp3.1\WritePatientRecords.csproj.CoreCompileInputs.cache
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\obj\Debug\netcoreapp3.1\WritePatientRecords.dll
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\obj\Debug\netcoreapp3.1\WritePatientRecords.pdb
+C:\Users\green\source\repos\WritePatientRecords\WritePatientRecords\obj\Debug\netcoreapp3.1\WritePatientRecords.genruntimeconfig.cache
